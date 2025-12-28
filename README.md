@@ -1,2 +1,2 @@
 # newGit-demo
-It using as learing for git
+I am using this for learning Git.
